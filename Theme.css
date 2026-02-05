@@ -1,0 +1,14 @@
+body{
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: end;
+}
+
+.Dark{
+    background-color: rgba(0, 0, 0, 0.89);
+}
+
+#togglebtn{
+    cursor: pointer;
+    font-size: 25px;
+}
